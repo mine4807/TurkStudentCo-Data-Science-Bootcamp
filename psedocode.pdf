@@ -1,0 +1,28 @@
+Seviye 1
+Başla
+    kullanıcıdan sayı al(sayi1)
+    kullanıcıdan sayı al(sayi2)
+    sayiları topla
+    sonucu ekrana yazdır
+Bitir
+
+Seviye 2
+Başla
+    toplam=0
+    Döngü(sayac=1;10;1)
+        toplam=toplam+sayac
+    Dögüsonu
+    toplam
+Bitir
+
+Seviye 3
+Başla
+    kullanıcıdan sayı al(sayi)
+    Eğer sayi>1
+        Döngü(sayac=2;sayi;+1)
+            eğer sayi sayac'a tam bölünüyorsa
+                sayi asal sayi değildir
+        else
+            sayi asal sayidir
+    else
+        sayi asal sayi değildir
